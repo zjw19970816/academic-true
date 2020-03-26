@@ -26,7 +26,7 @@ subtitle = ""
      tag = "*"
   
   [[content.filter_button]]
-     name = "Traffic Competition"
+     name = "Traffic Competition1"
      tag = "Demo"
   
    [[content.filter_button]]
