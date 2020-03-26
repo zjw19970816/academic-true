@@ -24,7 +24,7 @@ subtitle = ""
   [[content.filter_button]]
      name = "All"
      tag = "*"
-  9012371209309231098
+  
   [[content.filter_button]]
      name = "Traffic Competition"
      tag = "Demo"
