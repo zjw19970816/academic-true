@@ -21,6 +21,9 @@ date_format = "Jan 2006"
   title = "Traffic Science and Technology Competition"
   company = "School Bus Reservation APP"
   company_url = ""
+  location = "HongKong, China"
+  date_start = "2019-09-02"
+  date_end = ""
   description = """
   Responsibilities include:
 
@@ -32,6 +35,9 @@ date_format = "Jan 2006"
     title = "American Mathematical Modeling Competition (MCM/ICM)"
     company = "HF Channel Model of Random Sea Wave Model"
     company_url = ""
+    location = "HongKong, China"
+    date_start = "2019-09-02"
+    date_end = ""
     description = """
     Responsibilities include:
   
@@ -43,6 +49,9 @@ date_format = "Jan 2006"
     title = "Final Year Project Design"
     company = "Research on portal jib crane Anti-swing Positioning Control Based on Input Shaping"
     company_url = ""
+    location = "HongKong, China"
+    date_start = "2019-09-02"
+    date_end = ""
     description = """
     Responsibilities include:
   
