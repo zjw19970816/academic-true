@@ -59,5 +59,18 @@ date_format = "Jan 2006"
   * Automobile control panel.
   * Driving plate.
   """
+[[experience]]
+  title = "CRRC QISHUYAN CI., LTD."
+  company = "Internship"
+  company_url = ""
+  location = "Changzhou, Jiangsu"
+  date_start = "2018-09-10"
+  date_end = "2018-11-20"
+  description = """
+  Responsibilities include:
+  
+  * Learning the manufacturing process of locomotives.
+  * Learning the design and production process of the motor.
+  """
 
 +++
