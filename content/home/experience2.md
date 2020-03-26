@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   
   * EESM 5200 A+
   * EESM 5100 A+
-  * EESM 5060 AA
+  * EESM 5060 A
   * EESM 5000 A
   """
 
