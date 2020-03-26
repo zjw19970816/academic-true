@@ -26,11 +26,19 @@ subtitle = ""
      tag = "*"
   
   [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "Traffic Competition"
+     tag = "Demo"
   
    [[content.filter_button]]
-     name = "Other"
+     name = "MCM/ICM"
+     tag = "Demo"
+     
+   [[content.filter_button]]
+     name = "Final Year Porject"
+     tag = "Demo"
+     
+   [[content.filter_button]]
+     name = "RA Experience"
      tag = "Demo"
 
 [design]
