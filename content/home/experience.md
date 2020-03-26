@@ -31,8 +31,9 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
+  
 [[experience]]
-  title = "Automobile Division of Zhuzhou CRRC Times Electric Co.，Ltd. "
+  title = "Automobile Division of Zhuzhou CRRC Times Electric Co.，Ltd."
   company = "Internship"
   company_url = ""
   location = "Zhuzhou, Hunan"
@@ -45,8 +46,9 @@ date_format = "Jan 2006"
   * Designing the auto control board and the drive board.
   * Debugging and UD of the auto motor control.
     """
+    
 [[experience]]
-  title = "Automobile Division of Zhuzhou CRRC Times Electric Co.，Ltd. "
+  title = "Automobile Division of Zhuzhou CRRC Times Electric Co.，Ltd."
   company = "Internship"
   company_url = ""
   location = "Zhuzhou, Hunan"
@@ -59,6 +61,7 @@ date_format = "Jan 2006"
   * Automobile control panel
   * Driving plate.
     """    
+    
 [[experience]]
   title = "CRRC QISHUYAN CI., LTD."
   company = "Internship"
@@ -72,6 +75,7 @@ date_format = "Jan 2006"
   * Learning the manufacturing process of locomotives.    
   * Learning the design and production process of the motor.
     """    
+    
 [[experience]]
   title = "Professor"
   company = "University X"
