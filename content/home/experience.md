@@ -74,5 +74,4 @@ date_format = "Jan 2006"
   * Learning the manufacturing process of locomotives.    
   * Learning the design and production process of the motor.
     """
-
 +++
