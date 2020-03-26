@@ -13,23 +13,40 @@ subtitle = ""
 # Add/remove as many `[[feature]]` blocks below as you like.
 # 
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+[[feature]]
+  icon = "publons"
+  icon_pack = "ai"
+  name = "Programming"
+  description = "Python,Matlab,Java"
 
 [[feature]]
-  icon = "r-project"
+  icon = "dryad"
+  icon_pack = "ai"
+  name = "Model Building"
+  description = "MCM/ICM Competition, Transportation Model"  
+
+[[feature]]
+  icon = "creative-commons-share"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
+  name = "Mobile Development"
+  description = "School Bus Reservation APP & Android App Development"
+
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
+  icon = "dblp"
+  icon_pack = "ai"
+  name = "Controller Building"
+  description = "Active Disturbance Dejection Crane Controller Design"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "table"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Data Analysis"
+  description = "Traffic Data Analysis Using Python and Pandas"
+
+[[feature]]
+  icon = "tools"
+  icon_pack = "fas"
+  name = "Tools"
+  description = "Git, VS Code, XCode"
 
 +++
